@@ -1,0 +1,280 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$1.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$2.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$3.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$4.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$5.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$6.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$7.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$computeCosineSimilarity$1.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$loadMovieNames$1.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$main$1.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$.class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M.class
+binary dependencies:
+4 items
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /root/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /root/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$2
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$3
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$4
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$5
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$6
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$7
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$computeCosineSimilarity$1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$loadMovieNames$1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com.sundogsoftware.spark.MovieSimilarities1M$$anonfun$main$1
+used names:
+166 items
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> !=
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> &&
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> *
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> +
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ->
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> /
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> <
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> <init>
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> <repeated>
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ==
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> >
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> A
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Any
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> AnyRef
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Array
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ArrayOps
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ArrowAssoc
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> B
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> B1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Boolean
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> BufferedSource
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Class
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ClassTag
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Codec
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> CodingErrorAction
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Double
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ERROR
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Function1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> HashPartitioner
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Int
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Iterable
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Iterator
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> K
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Level
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Logger
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Map
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> MovieRating
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> MovieSimilarities1M
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Nothing
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Object
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> OrderedRDDFunctions
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Ordering
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> PairRDDFunctions
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Partitioner
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Predef
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> RDD
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> REPLACE
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> RatingPair
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> RatingPairs
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ScalaRunTime
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Source
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> SparkConf
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> SparkContext
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> String
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> StringOps
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> T
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> T1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> T2
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Tuple2
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> U
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> Unit
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> UserRatingPair
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> V
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> W
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> _$3
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> _$4
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> _$7
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> _1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> _2
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> apache
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> apply
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> args
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> arrayClass
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> augmentString
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> cache
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> charset
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> coOccurenceThreshold
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> codec
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> com
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> computeCosineSimilarity
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> conf
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> data
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> denominator
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> fields
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> filter
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> filterDuplicates
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> filteredResults
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> foreach
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> fromFile
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> getLines
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> getLogger
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> groupByKey
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> io
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> java
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> join
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> joinedRatings
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> l
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> length
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> line
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> lines
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> loadMovieNames
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> log4j
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> makePairs
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> map
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> mapValues
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> materializeClassTag
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> math
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> movie1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> movie2
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> movieID
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> movieNames
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> moviePairRatings
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> moviePairSimilarities
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> moviePairs
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> movieRating1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> movieRating2
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> nameDict
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> nio
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> numPairs
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> numerator
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> onMalformedInput
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> onUnmappableCharacter
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> org
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> package
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> pair
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> partitionBy
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> println
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> qual$1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> rating1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> rating2
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ratingPairs
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ratingX
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ratingY
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ratings
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> rdd
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> rddToOrderedRDDFunctions
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> rddToPairRDDFunctions
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> refArrayOps
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> result
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> results
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> sc
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> scala
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> score
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> scoreThreshold
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> setAppName
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> setLevel
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> sim
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> similarMovieID
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> sortByKey
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> spark
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> split
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> sqrt
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> sum_xx
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> sum_xy
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> sum_yy
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> sundogsoftware
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> take
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> textFile
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> toDouble
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> toInt
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> uniqueJoinedRatings
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> userRatings
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> x
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> x$1
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> x$2
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> ||
+product stamps:
+12 items
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$1.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$2.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$3.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$4.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$5.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$6.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$7.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$computeCosineSimilarity$1.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$loadMovieNames$1.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$$anonfun$main$1.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M$.class -> lastModified(1485015882000)
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/target/scala-2.11/classes/com/sundogsoftware/spark/MovieSimilarities1M.class -> lastModified(1485015882000)
+source stamps:
+1 items
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> hash(af15c9ef157598c0edd5f21d184f28cf840b7319)
+binary stamps:
+4 items
+/root/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> lastModified(1338025419000)
+/root/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1478822019000)
+class names:
+4 items
+/root/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> org.apache.log4j.Logger
+/root/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.HashPartitioner
+/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.collection.Iterator
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwBOFHigAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwCPUsLnQABm5vdGlmeXNxAH4ADNg1TT50ABNNb3ZpZVNpbWlsYXJpdGllczFNc3EAfgAMLN0caXQABHdhaXRzcQB+AAxx3UDRdAAKUmF0aW5nUGFpcnNxAH4ADAmMr850AA0kYXNJbnN0YW5jZU9mc3EAfgAMEVurH3QAF2NvbXB1dGVDb3NpbmVTaW1pbGFyaXR5c3EAfgAMFDkVq3QADlVzZXJSYXRpbmdQYWlyc3EAfgAMRPL+NHQABmVxdWFsc3NxAH4ADALvZK50AAtNb3ZpZVJhdGluZ3NxAH4ADLTBrtx0AAxhc0luc3RhbmNlT2ZzcQB+AAxXxbVqdAAMc3luY2hyb25pemVkc3EAfgAM+D3IiHQAEGZpbHRlckR1cGxpY2F0ZXNzcQB+AAyXRro1dAANJGlzSW5zdGFuY2VPZnNxAH4ADGur6Zx0AARtYWluc3EAfgAM3Yca53QACW5vdGlmeUFsbHNxAH4ADPItDEt0AAxpc0luc3RhbmNlT2ZzcQB+AAwtOsmDdAALUmF0aW5nUGFpcnNzcQB+AAzlFVLgdAACPT1zcQB+AAy5602EdAAFY2xvbmVzcQB+AAxciVSMdAAObG9hZE1vdmllTmFtZXNzcQB+AAxCJkK9dAAJbWFrZVBhaXJzc3EAfgAMvGxxs3QACHRvU3RyaW5nc3EAfgAMD2bE/HQAAiE9c3EAfgAMYIo6sHQACGdldENsYXNzc3EAfgAMe/qrLHQAAm5lc3EAfgAM0XpfdHQAAmVxc3EAfgAMoqDbp3QAAiMjc3EAfgAMPE+WyHQACGZpbmFsaXplc3EAfgAMrTxZenQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQALGNvbS5zdW5kb2dzb2Z0d2FyZS5zcGFyay5Nb3ZpZVNpbWlsYXJpdGllczFNdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBpc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4AbnNxAH4AaXVxAH4ATAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUnEAfgBbdXEAfgBcAAAAAHNxAH4AXgBxAH4AKXVxAH4AYQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBtdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AH1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AG1zcQB+AHx0AAVBcnJheXEAfgCCdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHx0AAZTdHJpbmdzcQB+AIBzcQB+AIN1cQB+AIYAAAADc3EAfgCIdAAEamF2YXNxAH4AiHQABGxhbmdxAH4AjXNxAH4AaXVxAH4ATAAAAABzcQB+AGl1cQB+AKEAAAACc3EAfgB8dAAGT2JqZWN0cQB+AKVzcQB+AHx0AANBbnlxAH4AgnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEmNvbS5zdW5kb2dzb2Z0d2FyZXNxAH4AtnQAGGNvbS5zdW5kb2dzb2Z0d2FyZS5zcGFya3NxAH4AtnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcHXsml1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAB/L2hvbWUvZGF2aWQvRG9jdW1lbnRzL2N1cnNvL3NjYWxhL3NjYWxhLXBsYXlncm91bmQvQXBhY2hlX1NwYXJrX3dpdGhfU2NhbGEtSGFuZHNfT25fd2l0aF9CaWdfRGF0YS9zYnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFK8Vye8VdZjA7dXyHRhPKM+EC3MZ
+external apis:
+0 items
+source infos:
+1 items
+/home/david/Documents/curso/scala/scala-playground/Apache_Spark_with_Scala-Hands_On_with_Big_Data/sbt/src/main/scala/MovieSimilarities1M.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcHXsml1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfy9ob21lL2RhdmlkL0RvY3VtZW50cy9jdXJzby9zY2FsYS9zY2FsYS1wbGF5Z3JvdW5kL0FwYWNoZV9TcGFya193aXRoX1NjYWxhLUhhbmRzX09uX3dpdGhfQmlnX0RhdGEvc2J0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
