@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="iteratee-stream"
+		module="iteratee-stream$sources_2.11"
+		revision="1.0"
+		conf="scala-tool"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20170130214233"/>
+	<dependencies>
+		<module organisation="org.scala-lang" name="scala-compiler">
+			<revision name="2.11.1" status="release" pubdate="20140520050308" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="3">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="3101" time="0" location="/home/david/.ivy2/cache/org.scala-lang/scala-compiler/ivy-2.11.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.pom"/>
+				<caller organisation="iteratee-stream" name="iteratee-stream$sources_2.11" conf="scala-tool" rev="2.11.1" rev-constraint-default="2.11.1" rev-constraint-dynamic="2.11.1" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scala-compiler" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="2083103" time="1436" location="/home/david/.ivy2/cache/org.scala-lang/scala-compiler/srcs/scala-compiler-2.11.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-xml_2.11">
+			<revision name="1.0.2" status="release" pubdate="20140520041040" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="3126" time="0" location="/home/david/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/ivy-1.0.2.xml" searched="false" origin-is-local="true" origin-location="/opt/activator-dist-1.3.12/repository/org.scala-lang.modules/scala-xml_2.11/1.0.2/ivys/ivy.xml"/>
+				<caller organisation="iteratee-stream" name="iteratee-stream$sources_2.11" conf="scala-tool" rev="1.0.2" rev-constraint-default="1.0.2" rev-constraint-dynamic="1.0.2" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scala-xml_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="109171" time="0" location="/home/david/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/srcs/scala-xml_2.11-1.0.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="jline" name="jline">
+			<revision name="2.11" status="release" pubdate="20130519150100" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="5">
+				<license name="The BSD License" url="http://www.opensource.org/licenses/bsd-license.php"/>
+				<metadata-artifact status="no" details="" size="3887" time="0" location="/home/david/.ivy2/cache/jline/jline/ivy-2.11.xml" searched="false" origin-is-local="false" origin-location="file:/opt/activator-dist-1.3.12/repository/jline/jline/2.11/ivys/ivy.xml"/>
+				<caller organisation="iteratee-stream" name="iteratee-stream$sources_2.11" conf="scala-tool" rev="2.11" rev-constraint-default="2.11" rev-constraint-dynamic="2.11" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="jline" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="84971" time="0" location="/home/david/.ivy2/cache/jline/jline/srcs/jline-2.11-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/jline/jline/2.11/jline-2.11-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11">
+			<revision name="1.0.1" status="release" pubdate="20140416052222" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="2918" time="0" location="/home/david/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/ivy-1.0.1.xml" searched="false" origin-is-local="false" origin-location="file:/opt/activator-dist-1.3.12/repository/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.1/ivys/ivy.xml"/>
+				<caller organisation="iteratee-stream" name="iteratee-stream$sources_2.11" conf="scala-tool" rev="1.0.1" rev-constraint-default="1.0.1" rev-constraint-dynamic="1.0.1" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="scala-parser-combinators_2.11" type="jar" ext="jar" status="no" details="" size="419701" time="0" location="/home/david/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/jars/scala-parser-combinators_2.11-1.0.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"/>
+					</artifact>
+					<artifact name="scala-parser-combinators_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="41398" time="0" location="/home/david/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/srcs/scala-parser-combinators_2.11-1.0.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-reflect">
+			<revision name="2.11.1" status="release" pubdate="20140520040246" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.1/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2812" time="0" location="/home/david/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.11.1.xml" searched="false" origin-is-local="false" origin-location="file:/opt/activator-dist-1.3.12/repository/org.scala-lang/scala-reflect/2.11.1/ivys/ivy.xml"/>
+				<caller organisation="iteratee-stream" name="iteratee-stream$sources_2.11" conf="scala-tool" rev="2.11.1" rev-constraint-default="2.11.1" rev-constraint-dynamic="2.11.1" callerrev="1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.11.1/"/>
+				<artifacts>
+					<artifact name="scala-reflect" type="jar" ext="jar" status="no" details="" size="4372892" time="0" location="/home/david/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.1.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"/>
+					</artifact>
+					<artifact name="scala-reflect" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="555369" time="963" location="/home/david/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.11.1" status="release" pubdate="20140520050221" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.1/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2653" time="0" location="/home/david/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.pom"/>
+				<caller organisation="iteratee-stream" name="iteratee-stream$sources_2.11" conf="scala-tool" rev="2.11.1" rev-constraint-default="2.11.1" rev-constraint-dynamic="2.11.1" callerrev="1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.11.1/"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5538130" time="0" location="/home/david/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar">
+						<origin-location is-local="false" location="http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"/>
+					</artifact>
+					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="896552" time="2171" location="/home/david/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

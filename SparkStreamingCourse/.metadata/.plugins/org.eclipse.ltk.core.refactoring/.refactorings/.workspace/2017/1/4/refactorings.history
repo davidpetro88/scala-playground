@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;scalaPoc&apos;" deleteContents="false" description="Delete resource &apos;scalaPoc&apos;" element1="/scalaPoc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1485449927255"/>&#x0A;<refactoring comment="Delete resource &apos;scalaPoc&apos;" deleteContents="true" description="Delete resource &apos;scalaPoc&apos;" element1="/scalaPoc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1485450535392"/>
+</session>

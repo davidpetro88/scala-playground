@@ -1,0 +1,22 @@
+@(items: Seq[models.Pet_Item])
+
+@simplepage {
+
+    <h2>Sundry Pets list</h2>
+    <ul>
+
+    @for(item <- items) {
+        <li>
+
+                 @item.price  match {
+                 case 2  =>   { <a href="#">@item.name &nbsp; @item.price SUNDRY }
+                 case p =>   { <a href="#"> @item.name &nbsp; @item.price &nbsp;€ </a> }
+                }
+
+        </li>
+    }
+
+    </ul>
+
+}
+

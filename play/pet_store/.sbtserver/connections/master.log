@@ -1,0 +1,19 @@
+New log file opened at Wed Jan 25 23:48:44 BRST 2017 by 6789@david-Lenovo-G400s
+Taking next connection to: 46058
+New client attempting to connect on port: 52976-46058
+  Address = /127.0.1.1:46058
+This client on port 52976 has uuid 311e4f12-9140-4c4b-8a89-7a54b1c66b14 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-311e4f12-9140-4c4b-8a89-7a54b1c66b14
+Taking next connection to: 46058
+New client attempting to connect on port: 52978-46058
+  Address = /127.0.1.1:46058
+Handshake exception on socket: 52978
+sbt.impl.ipc.HandshakeException: Unable to perform handshake
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:46)
+	at sbt.impl.ipc.MultiClientServer.<init>(IPC.scala:150)
+	at sbt.server.SbtServerSocketHandler$$anon$1.run(SbtServerSocketHandler.scala:43)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at sbt.impl.ipc.Peer.receive(IPC.scala:95)
+	at sbt.impl.ipc.Peer.handshake(IPC.scala:49)
+	... 2 more

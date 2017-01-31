@@ -1,0 +1,15 @@
+//package test
+//
+//import org.junit.Assert.assertEquals
+//import org.junit.Assert.assertThat
+//import org.junit.Assert.assertTrue
+//import org.junit.Test
+//
+//class ListTest {
+//  
+// @Test
+//  def testIsEmpty = {
+//    val list = List()
+//    assertTrue("list should be empty", list.isEmpty)
+//  }
+//}

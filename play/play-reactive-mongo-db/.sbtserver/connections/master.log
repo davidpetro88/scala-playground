@@ -1,0 +1,13 @@
+New log file opened at Sun Jan 29 12:43:24 BRST 2017 by 23496@david-Lenovo-G400s
+Taking next connection to: 37956
+New client attempting to connect on port: 59252-37956
+  Address = /127.0.1.1:37956
+This client on port 59252 has uuid 718c4c4d-c5e1-4afd-a2b4-d0de792f5a07 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-718c4c4d-c5e1-4afd-a2b4-d0de792f5a07
+Taking next connection to: 37956
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 23496@david-Lenovo-G400s logs at Sun Jan 29 12:46:25 BRST 2017, goodbye.
